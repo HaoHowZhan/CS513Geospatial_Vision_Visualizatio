@@ -1,1 +1,1 @@
-# CS513Geospatial_Vision_Visualization
+# Geospatial_Vision_Visualization
